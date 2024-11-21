@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning html java scripts and phyton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lorenzogaggliardo97@gmail.com
+- 📫 How to reach me lorenzogagliardo97@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
